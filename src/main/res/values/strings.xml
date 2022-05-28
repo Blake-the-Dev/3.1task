@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task 2.1P</string>
+
+    <string-array name="unitType">
+        <item>Metre</item>
+        <item>Celsius</item>
+        <item>Kilogram</item>
+    </string-array>
+
+</resources>
